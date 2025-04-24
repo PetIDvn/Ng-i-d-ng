@@ -30,7 +30,7 @@
     <input type="checkbox" name="keychain_value" value="Kỷ niệm" onchange="limitCheckboxes(this)"> Là vật kỷ niệm đáng yêu<br>
     <input type="checkbox" name="keychain_value" value="Cá tính" onchange="limitCheckboxes(this)"> Thể hiện tình cảm và cá tính<br>
     <input type="checkbox" name="keychain_value" value="Gắn PId" onchange="limitCheckboxes(this)"> Hữu ích khi lạc thú cưng (gắn PId)<br>
-    <input type="checkbox" name="keychain_value" value="Không có giá trị" onchange="limitCheckboxes(this)">Khác <br><br>
+    <input type="checkbox" name="keychain_value" value="Không có giá trị" onchange="limitCheckboxes(this)">Là nơi lưu trữ toàn bộ thông tin của thú cưng bạn <br><br>
 
     <label>6. Nếu có một app giúp bạn:</label><br>
     <input type="checkbox" name="app_feature" value="Mang thú cưng bên mình qua app"> Lưu trữ và bảo mật thông tin của thú cưng bạn<br>
