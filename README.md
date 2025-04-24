@@ -6,7 +6,8 @@
 </head>
 <body>
   <h2>Khảo sát người nuôi thú cưng</h2>
-  <form action="https://formspree.io/f/your-form-id" method="POST">
+  <form action="https://formspree.io/f/xvgaodeg" method="POST">
+   
     <label>1. Bạn nuôi thú cưng nào?</label><br>
     <input type="checkbox" name="pet_type" value="Chó"> Chó<br>
     <input type="checkbox" name="pet_type" value="Mèo"> Mèo<br>
