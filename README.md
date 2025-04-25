@@ -81,7 +81,7 @@
     <input type="checkbox" name="keychain_value" value="Kỷ niệm"> Là vật kỷ niệm đáng yêu<br>
     <input type="checkbox" name="keychain_value" value="Cá tính"> Thể hiện tình cảm và cá tính<br>
     <input type="checkbox" name="keychain_value" value="Gắn PId"> Hữu ích khi lạc thú cưng (gắn PId)<br>
-    <input type="checkbox" name="keychain_value" value="Để khoe bạn bè"> Là nơi lưu trữ toàn bộ thông tin của thú cưng bạn<br><br>
+    <input type="checkbox" name="keychain_value" value="Để khoe bạn bè"> Là nơi lưu trữ toàn bộ thông tin của thú cưng bạn<br>
     <input type="checkbox" name="keychain_value" value="Có cũng được, không có cũng ok mà"> Có cũng được, không có cũng ok mà<br><br>
 
     <label>9. Góp ý thêm (nếu có):</label><br>
