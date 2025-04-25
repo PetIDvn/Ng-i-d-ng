@@ -61,21 +61,30 @@
     <input type="radio" name="use_app" value="Có"> Có<br>
     <input type="radio" name="use_app" value="Không"> Không<br><br>
 
-    <label>5. Theo bạn, một chiếc móc khoá thú cưng cá nhân hoá sẽ mang lại giá trị gì cho bạn?</label><br>
+    <label>5. Khi bạn cần tìm thú y, bạn có thích có nền tảng giúp bạn tìm được phòng khám gần nhất và chức năng 24/7 khi cần thiết không?</label><br>
+    <input type="radio" name="navigation" value="Có"> Có<br>
+    <input type="radio" name="navigation" value="Không"> Không<br><br>
+   
+    <label>6. Bạn có e ngại mỗi lần đến thú y sẽ có trường hợp khám bệnh sai hoặc gây hại cho bé nhà bạn không?</label><br>
+    <input type="radio" name="insurance" value="Có"> Có<br>
+    <input type="radio" name="insurance" value="Không"> Không<br><br>
+
+    <label>7. Nếu có một app giúp bạn:</label><br>
+    <input type="checkbox" name="app_feature" value="Mang thú cưng bên mình qua app"> Lưu trữ và bảo mật thông tin của thú cưng bạn cũng như tạo cảm giác thú cưng luôn bên bạn<br>
+    <input type="checkbox" name="app_feature" value="Tìm dịch vụ gần và uy tín"> Tìm dịch vụ gần và uy tín mà không còn phải đi quá xa<br>
+    <input type="checkbox" name="app_feature" value="Rút gọn thời gian đặt lịch"> Rút gọn thời gian đặt lịch thay vì phải ngồi chờ khi tiệm quá đông<br>
+    <input type="checkbox" name="app_feature" value="Minh bạch thông tin sức khỏe thú cưng"> Minh bạch thông tin thú cưng hỗ trợ bảo vệ thú cưng của bạn<br>
+    <input type="checkbox" name="app_feature" value="Bảo vệ quyền lợi người nuôi và nhiều giảm giá"> Bảo vệ quyền lợi chủ nuôi thú cưng và nền tảng nhiều ưu đãi giảm giá<br><br>
+
+     <label>8. Theo bạn, một chiếc móc khoá thú cưng cá nhân hoá sẽ mang lại giá trị gì cho bạn?</label><br>
     <input type="checkbox" name="keychain_value" value="Gợi nhớ thú cưng"> Gợi nhớ thú cưng dù ở xa<br>
     <input type="checkbox" name="keychain_value" value="Kỷ niệm"> Là vật kỷ niệm đáng yêu<br>
     <input type="checkbox" name="keychain_value" value="Cá tính"> Thể hiện tình cảm và cá tính<br>
     <input type="checkbox" name="keychain_value" value="Gắn PId"> Hữu ích khi lạc thú cưng (gắn PId)<br>
-    <input type="checkbox" name="keychain_value" value="Không có giá trị"> Là nơi lưu trữ toàn bộ thông tin của thú cưng bạn<br><br>
+    <input type="checkbox" name="keychain_value" value="Để khoe bạn bè"> Là nơi lưu trữ toàn bộ thông tin của thú cưng bạn<br><br>
+    <input type="checkbox" name="keychain_value" value="Có cũng được, không có cũng ok mà"> Có cũng được, không có cũng ok mà<br><br>
 
-    <label>6. Nếu có một app giúp bạn:</label><br>
-    <input type="checkbox" name="app_feature" value="Mang thú cưng bên mình qua app"> Lưu trữ và bảo mật thông tin của thú cưng bạn<br>
-    <input type="checkbox" name="app_feature" value="Tìm dịch vụ gần và uy tín"> Tìm dịch vụ gần và uy tín mà không còn phải đi quá xa<br>
-    <input type="checkbox" name="app_feature" value="Rút gọn thời gian đặt lịch"> Rút gọn thời gian đặt lịch thay vì phải ngồi chờ khi tiệm quá đông<br>
-    <input type="checkbox" name="app_feature" value="Minh bạch thông tin sức khỏe thú cưng"> Minh bạch thông tin thú cưng hỗ trợ bảo vệ thú cưng của bạn<br>
-    <input type="checkbox" name="app_feature" value="Bảo vệ quyền lợi người nuôi"> Bảo vệ quyền lợi chủ nuôi thú cưng ở Việt Nam<br><br>
-
-    <label>7. Góp ý thêm (nếu có):</label><br>
+    <label>9. Góp ý thêm (nếu có):</label><br>
     <textarea name="feedback" rows="3" placeholder="Ý kiến của bạn..."></textarea><br><br>
 
     <button type="submit">Gửi khảo sát</button>
