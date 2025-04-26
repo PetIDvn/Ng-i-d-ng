@@ -62,12 +62,12 @@
     <input type="radio" name="use_app" value="Không"> Không<br><br>
 
     <label>5. Khi bạn cần tìm thú y, bạn có thích có nền tảng giúp bạn tìm được phòng khám gần nhất và chức năng 24/7 khi cần thiết không?</label><br>
-    <input type="radio" name="navigation" value="Có"> Có<br>
-    <input type="radio" name="navigation" value="Không"> Không<br><br>
+    <input type="radio" name="navigation_need" value="Có"> Có<br>
+    <input type="radio" name="navigation_need" value="Không"> Không<br><br>
    
     <label>6. Bạn có e ngại mỗi lần đến thú y sẽ có trường hợp khám bệnh sai hoặc gây hại cho bé nhà bạn không?</label><br>
-    <input type="radio" name="insurance" value="Có"> Có<br>
-    <input type="radio" name="insurance" value="Không"> Không<br><br>
+    <input type="radio" name="sợ bị gây hại" value="Có"> Có<br>
+    <input type="radio" name="sợ bị gây hại" value="Không"> Không<br><br>
 
     <label>7. Nếu có một app giúp bạn:</label><br>
     <input type="checkbox" name="app_feature" value="Mang thú cưng bên mình qua app"> Lưu trữ và bảo mật thông tin của thú cưng bạn cũng như tạo cảm giác thú cưng luôn bên bạn<br>
