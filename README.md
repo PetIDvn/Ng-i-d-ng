@@ -84,9 +84,14 @@
     <input type="checkbox" name="keychain_value" value="Để khoe bạn bè"> Là nơi lưu trữ toàn bộ thông tin của thú cưng bạn<br>
     <input type="checkbox" name="keychain_value" value="Có cũng được, không có cũng ok mà"> Có cũng được, không có cũng ok mà<br><br>
 
-    <label>9. Góp ý thêm (nếu có):</label><br>
-    <textarea name="feedback" rows="3" placeholder="Ý kiến của bạn..."></textarea><br><br>
-
+     <label>9. Bạn hiện tại ở quận mấy?:</label><br>
+    <textarea name="Khu vuc" rows="3" placeholder="Ý kiến của bạn..."></textarea><br><br>
+    
+    <label>10.  Bạn ở độ tuổi nào?:</label><br>
+    <input type="radio" name="age" value="15-25"> 15-25<br>
+    <input type="radio" name="age" value="26-35"> 26-35<br>
+    <input type="radio" name="age" value="36+"> 36+<br><br>
+   
     <button type="submit">Gửi khảo sát</button>
   </form>
 </body>
